@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+td{
+    /* padding:5px 10px; */
+    border: 2px solid;
+    width: 2em;
+    
+}
+tr{
+    /* padding: 1em 2em; */
+}
+table{
+    align-items: center;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: #c7dfc9ff;
+    /* position: relative; */
+}
+.div1{
+    margin-left: 3.5em;
+    height: 3.5em;
+    width: 2.5em;
+    background-color: orangered;
+}
+.div2{
+    margin-left: 3.5em;
+    height: 3.5em;
+    width: 2.5em;
+    background-color: rgb(203, 13, 76);
+}
+.div3{
+    height: 3.5em;
+    width: 2.5em;   
+    background-color: green;
+    margin-right: 3.5em;
+}
+.div4{
+    height: 3.5em;
+    width: 2.5em;
+    background-color: blue;
+}
+.div5{
+    height: 2.5em;
+    width: 3.5em;
+    margin-top: 3.5em;
+    background-color: yellow;
+}   
+.div6{
+    height: 2.5em;
+    width: 3.5em;
+    background-color: red;
+    margin-top: 3.5em;
+}
+.div7{
+    height: 2.5em;
+    width: 3.5em;
+    background-color: #8e5235ff;
+    margin-bottom: 3.5em;
+}
+.div8{
+    height: 2.5em;
+    width: 3.5em;
+    background-color: #aed8f0ff;
+    margin-bottom: 3.5em;
+}
+.rotate{
+    /* border: 2px solid red; */
+    height: 17%;
+    width: 80%;
+    transform: rotate(-45deg);
+    position: absolute;
+    top: 10em;
+    left: 1.5em;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../mono.png);
+}
+.rotate2{
+    height: 15%;
+    width: 25%;
+    transform: rotate(135deg);
+    position: absolute;
+    top: 3em;
+    left: 2em;
+    background-image: url(../pic.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.rotate1{
+    /* background-color: orangered; */
+    height: 15%;
+    width: 25%;
+    transform: rotate(-45deg);
+    position: absolute;
+    bottom: 3em;
+    right: 2em;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../quest.jpg);
+}
+.rotate1 img{
+    height: 23vh;
+}
+
+.sub{
+    position: relative;
+}
+.sup{
+    background-image: url(../cha.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#con1{
+    background-image: url(../monopoly9.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.train{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../monopoly14.jpg);
+}
+.length{
+    width: 4em;
+}
+.height1{
+    height: 3.5em;
+}
+#length{
+    width: 4em;
+}
+#water{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../monopoly3.jpg);
+}
+#water2{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../monopoly15.jpg);
+}
+#go{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../monopoly7.jpg);
+}
+#jail{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../monopoly11.jpg);
+}
+#jail2{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../just_in_jail-removebg-preview.png);
+}
+#elec img{
+    height: 3em;
+    width: 100%;
+}
+#task{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../monopoly16.jpg);
+}
+#crest1{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../monopoly15.jpg);
+}
+#crest2{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../monopoly15.jpg);
+}
+#train{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../monopoly14.jpg);
+}
+#chance{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../monopoly6.jpg);
+}
+#tax1{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../monopoly13.jpg);
+}
